@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "92e668d722014692",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c57d6cda974f4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lists/NoteList.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "830121104142137f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BookNotes/202203021145 算法（第4版）.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcbf81fa1cd21fcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e86bad46d2e809c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0dfb7a328dff865",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "933ac5e432850fe2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "580641a5b7c29d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aec085184086c027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "667e9337f089c50f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BookNotes/202203021145 算法（第4版）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "830121104142137f",
+  "lastOpenFiles": [
+    "BookNotes/202203021145 算法（第4版）.md",
+    "Lists/NoteList.md",
+    "BookNotes/202203021127.md",
+    "BookNotes/202203021048.md",
+    "BookNotes/202203021114.md",
+    "BookNotes/202203021050.md",
+    "BookNotes/202203021056.md",
+    "BookNotes/How to Take Smart Notes.md",
+    "BookNotes/202203021110.md",
+    "PeriodicNotes/YearlyNotes/2022.md"
+  ]
+}
